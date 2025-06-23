@@ -1,0 +1,25 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://${app.configsql.server-db:localhost:1433};databaseName=db_account;encrypt=true;trustServerCertificate=true
+    username: ${app.configsql.username:sa}
+    password: ${app.configsql.password:NewHorizons_2023@}
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+app:
+  config:
+    urlsistema: ${app.config.urlsistema:http://localhost:8081/api}
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    database-platform: org.hibernate.dialect.SQLServerDialect
+
+server:
+  port: 8084
+
+springdoc:
+  api-docs:
+    enable: false
+    path: /api/docs
+  swagger-ui:
+    enable: false
+    path: /swagger-ui.html

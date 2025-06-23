@@ -1,0 +1,50 @@
+﻿@model List<AFORO255.AZ.Web.DTOs.Account.AccountDTOResponse>
+<style>
+    .credit__table {
+        max-height: 600px; /* Ajusta según lo que necesites */
+        overflow-y: auto;
+        overflow-x: auto;
+    }
+
+        .credit__table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .credit__table th,
+        .credit__table td {
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+</style>
+<div class="item__credit">
+    <div class="credit__title">
+        <h3>Cuentas</h3><span>Listado de cuentas</span> 
+        <br />
+         <br />
+        <a style="color: green;background: gainsboro;border-radius: 4px 4px 4px 4px;padding: 4px 8px;" href="@Url.Action("Index","Account")">Refrescar</a>
+    </div>
+    <div class="credit__table">
+        <table>
+            <tr>
+                <th>ID Credito</th>
+                <th>Total</th>
+                <th>ID Cliente</th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.IdAccount</td>
+                    <td>@item.totalAmmount</td>
+                    <td>@item.IdCustomer</td>
+                    <td><a class="ligth" href="@Url.Action("Index","Transaction", new {accountId=item.IdAccount, type="deposit"})" disabled="true">Deposito</a></td>
+                    <td><a class="ligth" href="@Url.Action("Index","Transaction", new {accountId=item.IdAccount, type="withdrawal"})" disabled="true">Retiro</a></td>
+                    <td><a class="full" href="@Url.Action("Index","Movement", new {accountId=item.IdAccount})">Ver Movimientos</a></td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

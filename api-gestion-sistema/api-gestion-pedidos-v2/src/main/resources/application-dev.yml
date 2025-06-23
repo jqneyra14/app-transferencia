@@ -1,0 +1,23 @@
+spring:
+
+  datasource:
+    url: jdbc:mariadb://${app.config.server-db:localhost:3306}/db_validacion
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: ${app.config.username}
+    password: ${app.config.password}
+  jpa:
+    database-platform: org.hibernate.dialect.MariaDBDialect
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+
+server:
+  port: 8081
+
+springdoc:
+  api-docs:
+    enable: false
+    path: /api/docs
+  swagger-ui:
+    enable: false
+    path: /swagger-ui.html

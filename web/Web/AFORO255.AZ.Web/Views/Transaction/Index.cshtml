@@ -1,0 +1,27 @@
+﻿@model AFORO255.AZ.Web.Models.AccountViewModel
+
+<div class="item__products">
+    <div class="products__title">
+        <h3>Transacciones</h3><span>Depositos o Retiros</span>
+    </div>
+    <div class="products__form">
+        <form role="form" method="post">
+            <div>
+                <label>Operación</label>
+                <input type="text" readonly value=@ViewBag.Type />
+                @*<input type="hidden" value=@ViewBag.AccountId />*@
+                @Html.EditorFor(model => model.Type, new { htmlAttributes = new { @type = "hidden", @Value = ViewBag.Type } })
+                @Html.EditorFor(model => model.IdAccount, new { htmlAttributes = new {@type = "hidden", @Value = ViewBag.AccountId } })
+            </div>
+            <div>
+                @*<label>Monto</label>
+                    <input type="number">*@
+                <label for="Amount">Monto</label>
+                @Html.EditorFor(model => model.Amount, new { htmlAttributes = new { @type = "number", @min = "0", @value = "0" }})
+            </div>
+            <div>
+                <button type="submit">Realizar</button>
+            </div>
+        </form>
+    </div>
+</div>

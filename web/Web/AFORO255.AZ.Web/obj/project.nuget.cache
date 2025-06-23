@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zv1W8K93JrY=",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caiquipa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\caiquipa\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.202\\microsoft.net.sdk.compilers.toolset.9.0.202.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,165 @@
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AZ.Web.staticwebassets.runtime.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AZ.Web.exe
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AZ.Web.deps.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AZ.Web.runtimeconfig.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AZ.Web.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AZ.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.AssemblyReference.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfoInputs.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.AFORO255.AZ.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AFORO255.AZ.Web.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AFORO255.AZ.Web.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AFORO255.AZ.Web.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AZ.Web.styles.css
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AZ.Web.bundle.scp.css
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CopyComplete
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\refint\AFORO255.AZ.Web.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AZ.Web.genruntimeconfig.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\ref\AFORO255.AZ.Web.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.staticwebassets.runtime.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.exe
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.deps.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.runtimeconfig.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.AssemblyReference.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfoInputs.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.AFORO255.AZ.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AFORO255.AZ.Web.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AFORO255.AZ.Web.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AFORO255.AZ.Web.props
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AZ.Web.styles.css
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AZ.Web.bundle.scp.css
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CopyComplete
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\refint\AFORO255.AZ.Web.dll
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.genruntimeconfig.cache
+C:\Users\Ivan Cuadros\Desktop\guide\07\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\ref\AFORO255.AZ.Web.dll
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.staticwebassets.runtime.json
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.exe
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.deps.json
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.runtimeconfig.json
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.dll
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.pdb
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.AssemblyReference.cache
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfoInputs.cache
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfo.cs
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cache
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cs
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.AFORO255.AZ.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AFORO255.AZ.Web.props
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AFORO255.AZ.Web.props
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AFORO255.AZ.Web.props
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AZ.Web.styles.css
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AZ.Web.bundle.scp.css
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CopyComplete
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.dll
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\refint\AFORO255.AZ.Web.dll
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.pdb
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.genruntimeconfig.cache
+C:\Users\ivan_\Desktop\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\ref\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\appsettings.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.staticwebassets.runtime.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.exe
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.deps.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.runtimeconfig.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.pdb
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.AssemblyReference.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfoInputs.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfo.cs
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CoreCompileInputs.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cs
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.AFORO255.AZ.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AFORO255.AZ.Web.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AFORO255.AZ.Web.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AFORO255.AZ.Web.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AZ.Web.styles.css
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AZ.Web.bundle.scp.css
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CopyComplete
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\refint\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.pdb
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.genruntimeconfig.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\SESION 5\AFORO255.AZ.Web\AFORO255.AZ.Web\AFORO255.AZ.Web\obj\Debug\net6.0\ref\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\appsettings.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.staticwebassets.runtime.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.exe
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.deps.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.runtimeconfig.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.pdb
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.AssemblyReference.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfoInputs.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.AssemblyInfo.cs
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.csproj.CoreCompileInputs.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.RazorAssemblyInfo.cs
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.AFORO255.AZ.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AFORO255.AZ.Web.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AFORO255.AZ.Web.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AFORO255.AZ.Web.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AZ.Web.styles.css
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AZ.Web.bundle.scp.css
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\refint\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.pdb
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.genruntimeconfig.cache
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\ref\AFORO255.AZ.Web.dll
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\bin\Debug\net6.0\AFORO255.AZ.Web.staticwebassets.endpoints.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.AZ.Web.sourcelink.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets\msbuild.AFORO255.AZ.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Cursos\Pagos\Microservicios Net 7 en Azure\BCP\Projects\Web\AFORO255.AZ.Web\obj\Debug\net6.0\AFORO255.F9C7AC92.Up2Date

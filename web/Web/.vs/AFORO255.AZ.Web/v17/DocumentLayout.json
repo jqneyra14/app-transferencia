@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\movement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\movement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\proxy\\customhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\proxy\\customhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\services\\transaction\\implementations\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\services\\transaction\\implementations\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\services\\movement\\implementations\\movementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\services\\movement\\implementations\\movementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\dtos\\movement\\movementdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\dtos\\movement\\movementdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\services\\movement\\interfaces\\imovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\services\\movement\\interfaces\\imovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\services\\account\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\services\\account\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\dtos\\account\\accountdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\dtos\\account\\accountdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\proxy\\ihttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\proxy\\ihttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\dtos\\transaction\\transactiondtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\dtos\\transaction\\transactiondtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\services\\security\\implementations\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\services\\security\\implementations\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\services\\transaction\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\services\\transaction\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\services\\account\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\services\\account\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\extensions\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\extensions\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\aforo255.az.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\aforo255.az.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|d:\\cursos\\pagos\\microservicios net 7 en azure\\bcp\\projects\\web\\aforo255.az.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29C35D7C-68F5-4F1D-B80F-AE97B4284E81}|AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj|solutionrelative:aforo255.az.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovementService.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Movement\\Implementations\\MovementService.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Services\\Movement\\Implementations\\MovementService.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Movement\\Implementations\\MovementService.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Services\\Movement\\Implementations\\MovementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:06:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMovementService.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Movement\\Interfaces\\IMovementService.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Services\\Movement\\Interfaces\\IMovementService.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Movement\\Interfaces\\IMovementService.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Services\\Movement\\Interfaces\\IMovementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:18:11.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovementDTOResponse.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\DTOs\\Movement\\MovementDTOResponse.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\DTOs\\Movement\\MovementDTOResponse.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\DTOs\\Movement\\MovementDTOResponse.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\DTOs\\Movement\\MovementDTOResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:40:51.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T23:35:30.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T00:13:32.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Movement\\Index.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\Movement\\Index.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Movement\\Index.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\Movement\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T02:25:09.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomHttpClient.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Proxy\\CustomHttpClient.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Proxy\\CustomHttpClient.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Proxy\\CustomHttpClient.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Proxy\\CustomHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:27.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T00:18:19.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\appsettings.json",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\appsettings.json",
+              "RelativeToolTip": "AFORO255.AZ.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T00:10:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Account\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Services\\Account\\Implementations\\AccountService.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Account\\Implementations\\AccountService.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Services\\Account\\Implementations\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:15:13.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Transaction\\Implementations\\TransactionService.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Services\\Transaction\\Implementations\\TransactionService.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Transaction\\Implementations\\TransactionService.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Services\\Transaction\\Implementations\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:15:29.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T00:12:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:13:38.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovementController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\MovementController.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Controllers\\MovementController.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\MovementController.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Controllers\\MovementController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:13:44.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountDTOResponse.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\DTOs\\Account\\AccountDTOResponse.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\DTOs\\Account\\AccountDTOResponse.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\DTOs\\Account\\AccountDTOResponse.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\DTOs\\Account\\AccountDTOResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:35:20.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IHttpClient.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Proxy\\IHttpClient.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Proxy\\IHttpClient.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Proxy\\IHttpClient.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Proxy\\IHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:35.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:12:55.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:13:49.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:38.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionDTORequest.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\DTOs\\Transaction\\TransactionDTORequest.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\DTOs\\Transaction\\TransactionDTORequest.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\DTOs\\Transaction\\TransactionDTORequest.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\DTOs\\Transaction\\TransactionDTORequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:29:55.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Controllers\\SecurityController.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:09:59.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Security\\Implementations\\SecurityService.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Services\\Security\\Implementations\\SecurityService.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Security\\Implementations\\SecurityService.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Services\\Security\\Implementations\\SecurityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:15:22.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T04:07:28.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Program.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:18:37.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T00:20:10.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Account\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Services\\Account\\Interfaces\\IAccountService.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Account\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Services\\Account\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Models\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Models\\AccountViewModel.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Models\\AccountViewModel.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Models\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:52.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:52.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T00:20:11.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Security\\Login.cshtml",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Views\\Security\\Login.cshtml",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Views\\Security\\Login.cshtml",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Views\\Security\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T00:11:28.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Transaction\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Services\\Transaction\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Services\\Transaction\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Services\\Transaction\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:18:17.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomClaimTypes.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Extensions\\CustomClaimTypes.cs",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Extensions\\CustomClaimTypes.cs",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Extensions\\CustomClaimTypes.cs",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Extensions\\CustomClaimTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:42.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AFORO255.AZ.Web",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj",
+              "RelativeToolTip": "AFORO255.AZ.Web\\AFORO255.AZ.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-22T00:12:08.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Dockerfile",
+              "RelativeDocumentMoniker": "AFORO255.AZ.Web\\Dockerfile",
+              "ToolTip": "D:\\Cursos\\Pagos\\Microservicios Net 7 en Azure\\BCP\\Projects\\Web\\AFORO255.AZ.Web\\Dockerfile",
+              "RelativeToolTip": "AFORO255.AZ.Web\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T04:12:57.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

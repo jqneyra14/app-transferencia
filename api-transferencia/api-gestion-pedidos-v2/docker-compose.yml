@@ -1,0 +1,30 @@
+services:
+  api-gestion-sistemas:
+    image: jqn/api-gestion-sistemas:latest
+    container_name: api-gestion-sistemas
+    ports:
+      - "8081:8081"
+    environment:
+      SPRING_PROFILES_ACTIVE: dev
+      app.config.server-db: 192.168.18.11:3306
+      app.config.username: root
+      app.config.password: 123456789
+    networks:
+      - backend-java
+
+  api-transferencias:
+    image: jqn/api-transferencias:latest
+    container_name: api-transferencias
+    environment:
+      SPRING_PROFILES_ACTIVE: dev
+      app.config.urlsistema: http://api-gestion-sistemas:8081/api
+      app.configsql.username: sa
+      app.configsql.password: NewHorizons_2023@
+      app.configsql.server-db: 192.168.18.11:1433
+    ports:
+      - "8084:8084"
+    networks:
+      - backend-java
+networks:
+  backend-java:
+    driver: bridge

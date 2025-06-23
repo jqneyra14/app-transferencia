@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AFORO255.AZ.Web.props" />
+</Project>

@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://192.168.4.4:3306/db_gestion_pedidos_prod
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: ${app.config.username}
+    password: ${app.config.password}
+  jpa:
+    database-platform: org.hibernate.dialect.MariaDBDialect
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+
+server:
+  port: 8084

@@ -1,0 +1,85 @@
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.staticwebassets.runtime.json
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.exe
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.deps.json
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.runtimeconfig.json
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.dll
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.AssemblyInfoInputs.cache
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.AssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.RazorAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.RazorAssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AWS.Web.styles.css
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AWS.Web.bundle.scp.css
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.dll
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\ref\AFORO255.AWS.Web.dll
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.genruntimeconfig.cache
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.CopyComplete
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.AssemblyReference.cache
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.staticwebassets.runtime.json
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.exe
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.deps.json
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.runtimeconfig.json
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.dll
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\ref\AFORO255.AWS.Web.dll
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.AssemblyInfoInputs.cache
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.AssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.RazorAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.RazorAssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AWS.Web.styles.css
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AWS.Web.bundle.scp.css
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.CopyComplete
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.dll
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\ref\AFORO255.AWS.Web.dll
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.pdb
+C:\Users\Ivan Cuadros\Desktop\COURSES\CURSO-AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.genruntimeconfig.cache
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\appsettings.json
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.staticwebassets.runtime.json
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.exe
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.deps.json
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.runtimeconfig.json
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.dll
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\ref\AFORO255.AWS.Web.dll
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\AFORO255.AWS.Web.pdb
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.AssemblyReference.cache
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.AssemblyInfo.cs
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.RazorAssemblyInfo.cache
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.RazorAssemblyInfo.cs
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\bundle\AFORO255.AWS.Web.styles.css
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\scopedcss\projectbundle\AFORO255.AWS.Web.bundle.scp.css
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.csproj.CopyComplete
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.dll
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\ref\AFORO255.AWS.Web.dll
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.pdb
+D:\AFORO255\CLASES\2022\2022 06 JUN\115.- MSN6AWS\Sesiones\04\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\AFORO255.AWS.Web.genruntimeconfig.cache
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.AFORO255.AWS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AFORO255.AWS.Web.props
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AFORO255.AWS.Web.props
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AFORO255.AWS.Web.props
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ivan Cuadros\Desktop\AFORO255.AWS.Web\AFORO255.AWS.Web\obj\Debug\net6.0\refint\AFORO255.AWS.Web.dll

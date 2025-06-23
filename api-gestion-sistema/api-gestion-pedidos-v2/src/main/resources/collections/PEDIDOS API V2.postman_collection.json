@@ -1,0 +1,342 @@
+{
+	"info": {
+		"_postman_id": "a7ed82c4-9445-4a76-9e16-d3efa71d2196",
+		"name": "PEDIDOS API V2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6549145",
+		"_collection_link": "https://galaxy-1699.postman.co/workspace/GALAXY-TRAINING~db7f2f90-b3ae-46e9-8f25-5a375b7da1dc/collection/6549145-a7ed82c4-9445-4a76-9e16-d3efa71d2196?action=share&source=collection_link&creator=6549145"
+	},
+	"item": [
+		{
+			"name": "PRODUCTOS",
+			"item": [
+				{
+					"name": "GET PRODUCTOS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/v2/productos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"v2",
+								"productos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET PRODUCTOS BY ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/v2/productos/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"v2",
+								"productos",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CREATE PRODUCTO",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nombre\": \"Mouse Taurus 2\",\n    \"precio\": 1,\n    \"stock\": 1\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8084/v2/productos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8084",
+							"path": [
+								"v2",
+								"productos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UPDATE PRODUCTO",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nombre\": \"Samsung Galaxy S1\",\n    \"precio\": \"1599.00\",\n    \"stock\": \"3\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8081/v2/productos/-1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"v2",
+								"productos",
+								"-1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE PRODUCTO",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/v2/productos/7",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"v2",
+								"productos",
+								"7"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "CATEGORIAS",
+			"item": [
+				{
+					"name": "GET CATEGORIES EXTERNAL",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.escuelajs.co/api/v1/categories",
+							"protocol": "https",
+							"host": [
+								"api",
+								"escuelajs",
+								"co"
+							],
+							"path": [
+								"api",
+								"v1",
+								"categories"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET CATEGORIAS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/v2/categorias",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"v2",
+								"categorias"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "PEDIDOS",
+			"item": [
+				{
+					"name": "CREAR PEDIDO",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"clienteId\": 1,\n    \"detalles\": [\n        {\n            \"productoId\": 1,\n            \"cantidad\": 5.00\n        },\n        {\n            \"productoId\": 2,\n            \"cantidad\": 4.00\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8083/v2/pedidos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8083",
+							"path": [
+								"v2",
+								"pedidos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET PEDIDOS BY RANGO",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nombre\": \"Samsung Galaxy S3\",\n    \"precio\": \"3\",\n    \"stock\": \"3\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8081/v2/pedidos/por-rango?desde=27-05-2025&hasta=28-05-2025&estado=GENERADO",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"v2",
+								"pedidos",
+								"por-rango"
+							],
+							"query": [
+								{
+									"key": "desde",
+									"value": "27-05-2025"
+								},
+								{
+									"key": "hasta",
+									"value": "28-05-2025"
+								},
+								{
+									"key": "estado",
+									"value": "GENERADO"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET PEDIDO BY ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/v2/pedidos/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"v2",
+								"pedidos",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "CLIENTES",
+			"item": [
+				{
+					"name": "GET CLIENTES PAGINATED",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8084/v2/clientes/paginated?filtro=a&page=1&size=20&ordernarPor=nombres&direccion=asc",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8084",
+							"path": [
+								"v2",
+								"clientes",
+								"paginated"
+							],
+							"query": [
+								{
+									"key": "filtro",
+									"value": "a",
+									"description": "NOMBRES O APELLIDOS"
+								},
+								{
+									"key": "page",
+									"value": "1"
+								},
+								{
+									"key": "size",
+									"value": "20"
+								},
+								{
+									"key": "ordernarPor",
+									"value": "nombres"
+								},
+								{
+									"key": "direccion",
+									"value": "asc"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

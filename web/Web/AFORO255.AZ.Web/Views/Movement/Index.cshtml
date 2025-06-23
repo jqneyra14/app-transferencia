@@ -1,0 +1,139 @@
+﻿@model AFORO255.AZ.Web.DTOs.Movement.TransactionPageResponseDto
+
+@{
+    var query = Context.Request.Query;
+}
+<style>
+    .filter-form {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        background: #f9f9f9;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .filter-group {
+        display: flex;
+        flex-direction: column;
+        min-width: 150px;
+    }
+
+        .filter-group label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .filter-group input,
+        .filter-group select {
+            padding: 6px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+    .filter-button {
+        align-self: flex-end;
+        padding: 8px 16px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 24px;
+    }
+
+        .filter-button:hover {
+            background-color: #0056b3;
+        }
+
+    .filter-summary {
+        margin-bottom: 15px;
+        font-size: 14px;
+    }
+
+    .credit__table {
+        max-height: 600px; /* Ajusta según lo que necesites */
+        overflow-y: auto;
+        overflow-x: auto;
+    }
+
+        .credit__table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .credit__table th,
+        .credit__table td {
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+</style>
+<div class="item__credit">
+    <div class="filtro-form">
+        <h3>Movimientos</h3><span>Listado de movimientos</span>
+    </div>
+    @using (Html.BeginForm("Index", "Movement", FormMethod.Get))
+    {
+        <div class="filter-form">
+            <div class="filter-group">
+                <label>Desde:</label>
+                <input type="date" name="startDate" value="@query["startDate"]" />
+            </div>
+            <div class="filter-group">
+                <label>Hasta:</label>
+                <input type="date" name="endDate" value="@query["endDate"]" />
+            </div>
+            <div class="filter-group">
+                <label>Tipo:</label>
+                <select name="type">
+                    <option value="deposit" selected="@(query["type"] == "deposit" ? "selected" : null)">Depósito</option>
+                    <option value="withdrawal" selected="@(query["type"] == "withdrawal" ? "selected" : null)">Retiro</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>Página:</label>
+                <input type="number" name="page" min="1" value="@query["page"]" />
+            </div>
+            <div class="filter-group">
+                <label>Tamaño:</label>
+                <input type="number" name="size" min="1" value="@query["size"]" />
+            </div>
+
+            <input type="hidden" name="accountId" value="@query["accountId"]" />
+
+            <button class="filter-button" type="submit">Filtrar</button>
+        </div>
+    }
+    <div class="filter-summary">
+        <strong>Total páginas:</strong> @Model.TotalPages |
+        <strong>Página actual:</strong> @Model.CurrentPage |
+        <strong>Total registros:</strong> @Model.TotalElements
+    </div>
+    <div class="credit__table">
+        <table>
+            <tr>
+                <th>ID Transaccion</th>
+                <th>ID Cuenta</th>
+                <th>Monto</th>
+                <th>Operacion</th>
+                <th>Fecha</th>
+                <th>Monto actual</th>
+                <th>Monto anterior</th>
+            </tr>
+            @foreach (var item in Model.Transactions)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.AccountId</td>
+                    <td>@item.Amount</td>
+                    <td>@item.Type</td>
+                    <td>@item.Creationdate</td>
+                    <td>@item.CurrentAmount</td>
+                    <td>@item.PreviousAmount</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

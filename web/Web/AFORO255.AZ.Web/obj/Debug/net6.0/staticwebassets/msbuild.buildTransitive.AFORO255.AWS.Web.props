@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AFORO255.AWS.Web.props" />
+</Project>
